@@ -1,2 +1,1 @@
-# lakshyapriyadarshime.github.io
- lakshyapriyadarshime.github.io
+[https://lakshyapriyadarshi.me](lakshyapriyadarshi.me)
