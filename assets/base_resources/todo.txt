@@ -1,0 +1,10 @@
+1. Create Instagram feeds
+2. Clean up index.html
+3. Transfer new css template to all pages 
+4. Create subscription and link to tinyletter
+5. create contact form 
+6. support/books
+7. think clearly on categorization
+8. add abstractions.dev and everything i know 
+9. create pexels and unsplash accounts 
+10. think about hosting audios
