@@ -5,6 +5,11 @@
         font: 1.1em Arial, Helvetica, sans-serif;
             }
 
+      main img {
+        content-visibility: auto;
+  		}
+
+
       svg   {
         color: rgba(255, 255, 255, 0.35);
             }
