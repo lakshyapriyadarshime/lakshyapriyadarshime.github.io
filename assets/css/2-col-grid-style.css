@@ -51,14 +51,14 @@
       p a:link    {
         color: #8a0171;
                   }
-
+              
 
       a:hover     {
         color: hotpink;
                   }
 
       .wrapper    {
-        max-width: 860px;
+        max-width: 800px;
                   }
 
       .masonry    {
