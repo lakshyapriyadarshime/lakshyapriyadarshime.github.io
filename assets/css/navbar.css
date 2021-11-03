@@ -77,6 +77,16 @@
   display: block;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;}
+  
+.sticky + .container {
+  padding-top: 30px;
+
+}
+
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
