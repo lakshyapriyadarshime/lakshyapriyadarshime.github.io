@@ -1,8 +1,13 @@
 @import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+.urdu {
+	font-family: 'Noto Naskh Arabic', serif;
+	font-size: 1.40em;
+	direction: rtl;
+	margin-top: -45px;
+	margin-bottom: -55px;
+}
 
-p{
-  font-family: 'Noto Naskh Arabic', serif;
-  font-size: 1.5em;
-  direction: rtl;
-  margin-top:-40px;
+.translation {
+	font-family: 'Arial', serif;
+	font-size: 0.75em;
 }
